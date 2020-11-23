@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbca4319-5636-47af-b91c-63cd0982c84a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/contact.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact_content.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +56,25 @@
       <option name="presentableId" value="Default" />
       <updated>1606101252670</updated>
       <workItem from="1606101254603" duration="11226000" />
-      <workItem from="1606112618816" duration="6366000" />
+      <workItem from="1606112618816" duration="8095000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="754" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606101872573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="754" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606101872573" />
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1606119017123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606119017123" />
     <state x="351" y="142" key="EditFileWatcherDialog" timestamp="1606101405684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

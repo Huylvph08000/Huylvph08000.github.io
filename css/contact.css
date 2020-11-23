@@ -229,6 +229,42 @@ footer .copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+@media only screen and (max-width: 739px) {
+  .google_map, .contact_content {
+    width: 90%;
+    position: absolute;
+    display: flex;
+    margin-left: 5%;
+  }
+
+  .contact_content {
+    width: 70%;
+    position: absolute;
+    margin-left: 10%;
+  }
+
+  .col-sm-5 {
+    display: none;
+  }
+}
+@media only screen and (min-width: 740px) and (max-width: 1023px) {
+  .google_map, .contact_content {
+    width: 90%;
+    position: absolute;
+    display: flex;
+    margin-left: 5%;
+  }
+
+  .contact_content {
+    width: 70%;
+    position: absolute;
+    margin-left: 10%;
+  }
+
+  .col-sm-5 {
+    display: none;
+  }
+}
 @media (min-width: 768px) {
   .col-sm-12 {
     width: 100%;

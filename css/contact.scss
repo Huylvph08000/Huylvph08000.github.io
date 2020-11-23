@@ -205,8 +205,51 @@ footer .copyright {
 
 
 
+//phone's screen
+@media only screen  and (max-width: 739px){
+  .google_map, .contact_content {
+    width: 90%;
+    position: absolute;
+    display: flex;
+    margin-left: 5%;
 
+  }
+  .contact_content {
+    width: 70%;
+    position: absolute;
+    margin-left: 10%;
+  }
+  //.row {
+  //  display: flex;
+  //  flex-wrap: wrap;
+  //}
+   .col-sm-5 {
+     display: none;
+  }
+}
+@media only screen  and (min-width: 740px) and (max-width: 1023px){
+  .google_map, .contact_content {
+    width: 90%;
+    position: absolute;
+    display: flex;
+    margin-left: 5%;
 
+  }
+  .contact_content {
+    width: 70%;
+    position: absolute;
+    margin-left: 10%;
+  }
+  //.row {
+  //  display: flex;
+  //  flex-wrap: wrap;
+  //}
+  .col-sm-5 {
+display: none;
+  }
+  
+
+}
 
 
 
