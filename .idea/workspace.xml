@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbca4319-5636-47af-b91c-63cd0982c84a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contact.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_content.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_content.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="HTML File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -56,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606101252670</updated>
       <workItem from="1606101254603" duration="11226000" />
-      <workItem from="1606112618816" duration="954000" />
+      <workItem from="1606112618816" duration="6366000" />
     </task>
     <servers />
   </component>
