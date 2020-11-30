@@ -28,7 +28,7 @@ img {
 .header_nav {
   width: 100%;
   height: 404px;
-  background-image: url("https://www.klevermedia.co.uk/html_templates/movie_star_html/images/hero-1.jpg");
+  background-image: url("img/hero-2.jpg");
   background-size: auto;
 }
 .header_nav_content1-contact {
@@ -118,7 +118,7 @@ img {
   display: none;
 }
 .news:hover .header_nav_content2-navs_underdialog {
- display: block;
+  display: block;
 }
 #myNavbar ul{
   text-decoration: none;
@@ -189,8 +189,8 @@ img {
 }
 .main_left-content_content1 {
   color: #717171;
-  width: 655px;
-  height: 1060px;
+  width: 80%;
+  height: auto;
   margin-left: 105px;
   margin-top: 75px;
 }
@@ -511,7 +511,7 @@ button, input, select, textarea {
 
 
 
-  //phone's screen
+//phone's screen
 @media only screen  and (max-width: 739px){
   .header_nav_content2-navs {
     display: none;
@@ -609,6 +609,7 @@ button, input, select, textarea {
   }
   .main_left-content_content1-text {
     width: 100%;
+    margin-left: 8px;
   }
   .main {
     width: 100%;
@@ -626,14 +627,15 @@ button, input, select, textarea {
 
   .main_left-content_content1_text {
     width: 40%;
+    //padding-right: 32px;
   }
   .main_left-content_content1_text_title1_text {
     font-size: 1.5rem;
-    width: 100%;
+    //width: 100%;
+
   }
   #text_manager{
-    width: 100%;
-    background-color: #ec7532;
+    //width: 100%;
     height: auto;
   }
   //.main_left-content_content1-text p{
